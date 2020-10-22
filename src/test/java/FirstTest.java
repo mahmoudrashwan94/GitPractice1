@@ -4,4 +4,7 @@ public class FirstTest {
     @Test
     public void firstTestMethod(){
     }
+    @Test
+    public void secondTestMethod(){
+    }
 }
