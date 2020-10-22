@@ -7,4 +7,7 @@ public class FirstTest {
     @Test
     public void secondTestMethod(){
     }
+    @Test
+    public void lisaFirstTestMethod(){
+    }
 }
