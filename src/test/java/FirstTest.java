@@ -10,4 +10,7 @@ public class FirstTest {
     @Test
     public void lisaFirstTestMethod(){
     }
+    @Test
+    public void lisaTestThree(){
+    }
 }
