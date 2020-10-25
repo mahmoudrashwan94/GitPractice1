@@ -4,4 +4,17 @@ public class SecondTest{
     public void lisaTest4(){
         
     }
+
+    @Test
+    public void lisaTest5(){
+     
+    }
+    @Test
+    public void lisaTest6(){
+
+    }
+    @Test
+    public void lisaTest7(){
+
+    }
 }
